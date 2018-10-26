@@ -19,4 +19,6 @@ algorithms accounting for multiple plausible semantic segmentation hypotheses to
 provide possible diagnoses and recommend further actions to resolve the present
 ambiguities.
 
-3. Ivan Rodin, Vladislav Shlyonskiy
+3. Contributors: Ivan Rodin, Vladislav Shlyonskiy
+
+4. Dataset used at project: https://competitions.codalab.org/competitions/17094
